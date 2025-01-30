@@ -18,6 +18,6 @@
 - 🎉 **Fatos divertidos:**  
   - Amo transformar ideias em código e ver soluções ganharem vida.
   - Sempre explorando ferramentas para tornar processos mais rápidos e eficientes.  
-  - Jogos um FPS as vezes pra descontrair.
+  - Jogo um FPS as vezes pra descontrair.
   - Tenho um hobby em impressão 3D  
 
