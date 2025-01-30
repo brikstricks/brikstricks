@@ -11,7 +11,7 @@
   - **Metodologias:** Agile, Scrum, Kanban  
 - 🤝 **Colaborações:** Interessado em projetos de **desenvolvimento de software**, **automação de processos** e **testes de qualidade**.  
 - 📫 **Como me encontrar:**  
-  - [LinkedIn](https://www.linkedin.com/in/pablo-lacerda-cassani-54024323b/)  
+  - [LinkedIn](https://www.linkedin.com/in/pablo-lacerda-casagni-54024323b/)  
   - [Portfólio](https://github.com/brikstricks)  
   - **Email:** pablocassani88@gmail.com 
 
